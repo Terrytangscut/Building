@@ -1,0 +1,14 @@
+<!--index.wxml-->
+
+<view class="background-container">
+  <!-- 标题 -->
+  <text class="page-title">广州市地标建筑AI识别</text>
+
+  <!-- 背景图 -->
+  <image src="/Images/Background.jpg" class="background-image"></image>
+  
+  <!-- 照相按钮 -->
+  <image src="/Images/camera.png" class="camera-button" bindtap="openCamera"></image>
+</view>
+
+
